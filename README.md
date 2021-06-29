@@ -45,4 +45,6 @@ Run a docker image in interactive mode.
 
 
 ### Reference
-https://towardsdatascience.com/getting-started-with-airflow-using-docker-cd8b44dbff98
+1. https://towardsdatascience.com/getting-started-with-airflow-using-docker-cd8b44dbff98
+2. [Resource 1](https://towardsdatascience.com/getting-started-with-airflow-using-docker-cd8b44dbff98)
+3. [Architectrue](https://airflow.apache.org/docs/apache-airflow/stable/concepts/overview.html)
