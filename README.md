@@ -33,6 +33,12 @@ airflow users create \
     --email praveenpkg8@gmail.com
 ```
 
+## Docker Operations
+Navigate to the directory. 
+>  docker build -t boilerplate .
+
+Run a docker image in interactive mode.
+> docker run -it -p 8080:8080 boilerplate /bin/bash
 
 ### Problems Faced
 1. webserver was unable to run. Increase the docker space to 3gb.
